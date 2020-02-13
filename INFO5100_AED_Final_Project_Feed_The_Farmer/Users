@@ -1,0 +1,9 @@
+FarmersAssociation - John
+MASGovernment - MASManager, MASOfficer
+NYGovernment - NYManager, NYOfficer
+WholeFoods - WFSeedSupplier, WFFertilizerSupplier, WFEquipmentSupplier
+Target - TargetSeedSupplier, TargetFertilizerSupplier, TargetEquipmentSupplier
+Santander - SantanderManager, SantanderOfficer
+BOFA - BOFAManager, BOFAOfficer
+DavidMicroFinance - DavidMicroFinanceManager, DavidMicroFinanceOfficer
+JacksonMicroFinance - JacksonManager, JacksonOfficer
